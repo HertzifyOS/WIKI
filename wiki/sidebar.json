@@ -1,0 +1,33 @@
+[
+  {
+    "category": "Quickstart",
+    "items": [
+      { "id": "introduction", "title": "Introduction to HZ" },
+      { "id": "features", "title": "ROM Features" }
+    ]
+  },
+  {
+    "category": "Development",
+    "items": [
+      { "id": "downloading-source", "title": "Downloading Source" },
+      { "id": "building-source", "title": "Build the Source" }
+    ]
+  },
+  {
+    "category": "Maintainership",
+    "items": [
+      { "id": "requirements", "title": "Requirements" },
+      { "id": "source-guidelines", "title": "Device Source Code Guidelines" },
+      { "id": "technical-guidelines", "title": "Technical Guidelines" },
+      { "id": "code-of-conduct", "title": "Code of Conduct" },
+      { "id": "apply-maintainer", "title": "Applying for Official" }
+    ]
+  },
+  {
+    "category": "Support",
+    "items": [
+      { "id": "faq", "title": "FAQ" },
+      { "id": "our-team", "title": "Our Team" }
+    ]
+  }
+]
